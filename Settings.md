@@ -1,0 +1,66 @@
+# Settings
+- General
+    - Language
+        - App Language
+        - Search Result Language
+            - English
+            - Japanese
+            - Chinese
+            - Other
+        - Help Translate
+    - Default Page
+        - Library
+            - Planned
+            - Reading
+            - On-Hold
+            - Dropped
+            - Completed
+        - Search
+    - Highlight Tags
+        - Avoid Tags
+        - Prefer Tags
+    - Scroll Direction
+        - Left to Right (Default)
+        - Right to Left
+- Display
+    - Themes
+        - Dark (Default)
+        - Light
+        - Blue
+    - Date Format
+        - MM-DD-YYYY
+        - DD-MM-YYYY
+        - YYYY-MM-DD
+    - List Display
+        - Portrait
+            - Grid
+                - Columns
+                - Rows
+            - List
+        - Landscape
+            - Grid
+                - Columns
+                - Rows
+            - List
+    - Show Page Numbers
+- Security
+    - Privacy Mode
+    - Biometric Validate
+- Advanced
+    - Crash Reports
+- Backup and Restore
+    - Schedule Backups
+        - Location
+        - Amount Keep
+        - Frequency
+            - Daily
+            - Weekly
+            - Monthly
+    - Manual Backup
+        - Location
+    - Restore
+- About
+    - Version
+    - Description
+    - Contribute
+- Contribute
